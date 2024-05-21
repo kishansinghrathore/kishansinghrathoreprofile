@@ -351,8 +351,8 @@ a:hover {
   opacity: 1;
 }
 
-/* /*------/ Prelaoder /------*/
-#preloader {
+ /*------/ Prelaoder /------*/
+/*#preloader {
   position: fixed;
   top: 0;
   left: 0;
