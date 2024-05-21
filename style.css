@@ -351,7 +351,7 @@ a:hover {
   opacity: 1;
 }
 
-/*------/ Prelaoder /------*/
+/* /*------/ Prelaoder /------*/
 #preloader {
   position: fixed;
   top: 0;
@@ -385,7 +385,7 @@ a:hover {
     transform: rotate(360deg);
   }
 }
-
+ */
 /*------/ Button /------*/
 .button {
   display: inline-block;
