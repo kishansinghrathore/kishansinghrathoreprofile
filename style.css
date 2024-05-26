@@ -352,7 +352,7 @@ a:hover {
 }
 
  /*------/ Prelaoder /------*/
-/*#preloader {
+#preloader {
   position: fixed;
   top: 0;
   left: 0;
@@ -385,7 +385,7 @@ a:hover {
     transform: rotate(360deg);
   }
 }
- */
+
 /*------/ Button /------*/
 .button {
   display: inline-block;
